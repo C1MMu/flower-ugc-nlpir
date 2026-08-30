@@ -1,0 +1,31 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+dist/
+build/
+*.egg-info/
+
+# Research data and derived user text
+data/*
+!data/README.md
+input/
+output/
+demo_output/
+*.xlsx
+*.xls
+*.csv
+!examples/demo.csv
+
+# NLPIR runtime files and local licenses
+NLPIR.user
+*.log
+*.err
+
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+secrets.*
