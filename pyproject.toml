@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flower-ugc-nlpir"
+version = "0.1.0"
+description = "Privacy-aware NLPIR workflow for a Yunnan fresh-cut-flower UGC research project."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "勇闯学术界的小柴" },
+]
+dependencies = [
+  "pandas>=2.0,<3.0",
+  "openpyxl>=3.1,<4.0",
+  "pynlpir==0.6.1",
+]
+
+[project.scripts]
+flower-ugc-analyze = "flower_ugc_analysis.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
