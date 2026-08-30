@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "如在学术交流中使用本项目，请引用作者与仓库。"
+title: "云南鲜切花 UGC 文本分析工具"
+type: software
+authors:
+  - family-names: "勇闯学术界的小柴"
+version: 0.1.0
+date-released: 2026-08-31
+license: LicenseRef-Proprietary
+repository-code: "https://github.com/C1MMu/flower-ugc-nlpir"
+keywords:
+  - UGC
+  - NLPIR
+  - fresh-cut flowers
+  - agricultural digital economy
