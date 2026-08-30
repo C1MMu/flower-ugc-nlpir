@@ -1,0 +1,17 @@
+Copyright (c) 2026 勇闯学术界的小柴. All rights reserved.
+
+This repository is published for academic review and portfolio demonstration.
+No permission is granted to copy, modify, redistribute, sublicense, sell, or
+commercially use the original code, documentation, synthetic examples, or
+project identity without prior written permission from the copyright holder.
+
+Reasonable academic citation and linking are permitted provided that the author,
+project title, and repository URL are clearly identified. No platform user-
+generated content or research dataset is licensed or distributed by this
+repository.
+
+Third-party software is governed by its own license terms. See
+THIRD_PARTY_NOTICES.md. This notice does not claim ownership of PyNLPIR,
+NLPIR/ICTCLAS, pandas, openpyxl, or other third-party components.
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
