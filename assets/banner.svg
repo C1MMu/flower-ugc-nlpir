@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">云南鲜切花 UGC 文本分析工具</title>
+  <desc id="desc">黑白学术风格项目封面，展示花朵、文本与数据节点。</desc>
+  <rect width="1200" height="320" fill="#0b0b0b"/>
+  <g fill="none" stroke="#ffffff" stroke-width="2" opacity="0.28">
+    <path d="M70 258 C180 195 242 226 340 158 S530 68 662 136 854 232 1125 78"/>
+    <path d="M70 275 C195 213 286 263 398 185 S596 88 737 164 929 242 1130 116"/>
+  </g>
+  <g transform="translate(930 72)" fill="none" stroke="#fff" stroke-width="3">
+    <circle cx="70" cy="70" r="19"/>
+    <ellipse cx="70" cy="29" rx="21" ry="35"/>
+    <ellipse cx="111" cy="70" rx="35" ry="21"/>
+    <ellipse cx="70" cy="111" rx="21" ry="35"/>
+    <ellipse cx="29" cy="70" rx="35" ry="21"/>
+    <path d="M70 130v78M70 164c-26-17-44-14-59 1M70 181c27-19 47-17 63-1"/>
+  </g>
+  <text x="72" y="102" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="4">RESEARCH CODE · PRIVACY FIRST</text>
+  <text x="72" y="169" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">云南鲜切花 UGC 文本分析工具</text>
+  <text x="72" y="220" fill="#d6d6d6" font-family="Arial, Helvetica, sans-serif" font-size="24">NLPIR 分词 · 需求识别 · 聚合分析 · 证据边界</text>
+  <g fill="#fff">
+    <circle cx="74" cy="267" r="5"/><circle cx="101" cy="267" r="5"/><circle cx="128" cy="267" r="5"/>
+  </g>
+</svg>
